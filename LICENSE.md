@@ -8,7 +8,7 @@ All projects are under the [GPLv3 license](https://www.gnu.org/licenses/gpl-3.0.
 
 The following entities are strictly prohibited from using, copying, modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software, or any derivatives thereof, either in whole or in part:
 
-+ Baidu, Inc.
++ PDD
 + Tencent Holdings Ltd.
 + ByteDance Ltd.
 + CSDN
